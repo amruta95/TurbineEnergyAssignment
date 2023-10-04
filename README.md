@@ -1,6 +1,6 @@
 # Turbit Assignment
 
-This repository contains Turbt company's take-home assignment solution. 
+This repository contains Turbit company's take-home assignment solution. 
 
 Please follow the below steps to run the code,
 
