@@ -1,6 +1,5 @@
-# Turbit Assignment
+# Turbine Energy Assignment
 
-This repository contains Turbit company's take-home assignment solution. 
 
 Please follow the below steps to run the code,
 
